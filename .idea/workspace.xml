@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0851cc42-1111-4c98-bec5-acd22974dd51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/strategies/local.strategy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/bookController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/adminRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/authRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/signin.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eGNbUAjH91mbr63ziTfN29UiYv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0851cc42-1111-4c98-bec5-acd22974dd51" name="Default Changelist" comment="" />
+      <created>1593944043913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593944043913</updated>
+      <workItem from="1593944045614" duration="6411000" />
+      <workItem from="1601059647728" duration="417000" />
+      <workItem from="1602933813315" duration="79000" />
+      <workItem from="1603700396171" duration="544000" />
+      <workItem from="1603737490707" duration="166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="85" key="#JavaScript" timestamp="1603700503511">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="387" y="85" key="#JavaScript/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700503511" />
+    <state x="141" y="26" width="1084" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603737568069">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="141" y="26" width="1084" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700827919" />
+    <state x="141" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.26.1366.717@0.26.1366.717" timestamp="1603737568069" />
+    <state x="466" y="92" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603700679568">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="466" y="92" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700679568" />
+    <state width="1325" height="156" key="GridCell.Tab.0.bottom" timestamp="1603700939587">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state width="1325" height="156" key="GridCell.Tab.0.bottom/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700939587" />
+    <state width="1325" height="156" key="GridCell.Tab.0.center" timestamp="1603700939587">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state width="1325" height="156" key="GridCell.Tab.0.center/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700939587" />
+    <state width="1325" height="156" key="GridCell.Tab.0.left" timestamp="1603700939586">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state width="1325" height="156" key="GridCell.Tab.0.left/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700939586" />
+    <state width="1325" height="156" key="GridCell.Tab.0.right" timestamp="1603700939587">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state width="1325" height="156" key="GridCell.Tab.0.right/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700939587" />
+    <state x="347" y="170" key="run.anything.popup" timestamp="1603700515864">
+      <screen x="0" y="26" width="1366" height="717" />
+    </state>
+    <state x="347" y="170" key="run.anything.popup/0.26.1366.717/1366.0.1366.768@0.26.1366.717" timestamp="1603700515864" />
+  </component>
+</project>
